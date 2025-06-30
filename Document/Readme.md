@@ -14,6 +14,6 @@ Copy the link given in output and paste it on your default browser
 Upload the image and test it!
 Few images are given under media to test upon
 
-Example of Class
+Example of classification 
 
 
